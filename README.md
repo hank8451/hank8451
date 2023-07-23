@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Hank's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hank8451&theme=dark)](https://github.com/hank8451/leetcode-stats)
 <!--
+[![Hank's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hank8451&theme=dark)](https://github.com/hank8451/leetcode-stats)
 **hank8451/hank8451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
